@@ -4,6 +4,68 @@
         <name>PSBooked</name>
     </assembly>
     <members>
+        <member name="T:PSBooked.RecurrenceRuleType">
+            <summary>
+            What kind of Reccurence Rule is out there
+            </summary>
+        </member>
+        <member name="T:PSBooked.RecurrenceRule">
+            <summary>
+            RecurrenceRule Class. Used to Create Recurrence Rules for Reservations
+            </summary>
+        </member>
+        <member name="P:PSBooked.RecurrenceRule.Type">
+            <summary>
+            The Type of the Recurrence
+            </summary>
+        </member>
+        <member name="P:PSBooked.RecurrenceRule.Interval">
+            <summary>
+            The Interval of the Recurrence
+            </summary>
+        </member>
+        <member name="P:PSBooked.RecurrenceRule.MonthlyType">
+            <summary>
+            The MonthlyType of the Recurrence
+            </summary>
+        </member>
+        <member name="P:PSBooked.RecurrenceRule.Weekdays">
+            <summary>
+            The Weekdays of the Recurrence
+            </summary>
+        </member>
+        <member name="P:PSBooked.RecurrenceRule.RepeatTerminationDate">
+            <summary>
+            The End of of the Recurrence
+            </summary>
+        </member>
+        <member name="M:PSBooked.RecurrenceRule.ToString">
+            <summary>
+            Overrides toString Method to Output the Values of the Reminder
+            instead of the Class Type
+            </summary>
+        </member>
+        <member name="T:PSBooked.Reminder">
+            <summary>
+            Reminder Class. Used to Create Reminder for Reservations
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reminder.Value">
+            <summary>
+            The Timer of the Reminder
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reminder.Interval">
+            <summary>
+            The Interval of the Reminder
+            </summary>
+        </member>
+        <member name="M:PSBooked.Reminder.ToString">
+            <summary>
+            Overrides toString Method to Output the Values of the Reminder
+            instead of the Class Type
+            </summary>
+        </member>
         <member name="T:PSBooked.Reservation">
             <summary>
             Reservation Class. Used to Create new Reservation
@@ -12,6 +74,56 @@
         <member name="P:PSBooked.Reservation.Title">
             <summary>
             The Title of the Reservation
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reservation.Description">
+            <summary>
+            The Description of the Reservation
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reservation.StartDateTime">
+            <summary>
+            The Start Date and Time of the Reservation
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reservation.EndDateTime">
+            <summary>
+            The End Date and Time of the Reservation
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reservation.UserID">
+            <summary>
+            The End Date and Time of the Reservation
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reservation.RecurrenceRule">
+            <summary>
+            The RecurrenceRule of the Reservation. If Needed
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reservation.ResourceID">
+            <summary>
+            The Ressources to reserve
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reservation.AllowParticipation">
+            <summary>
+            The allow Participation of other Users or Guests
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reservation.TermsAccepted">
+            <summary>
+            Boolean Value if the Terms uf Use are accepted
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reservation.StartReminder">
+            <summary>
+            Start Reminder for the Event
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reservation.EndReminder">
+            <summary>
+            End Reminder for the Event
             </summary>
         </member>
     </members>
