@@ -2,6 +2,9 @@
 
 Powershell Module v0.1.0 for the PSBooked API
 
+At the Moment all the Get-Booked* CmdLet should work properly.
+I'm still working at the New-BookedReservation CmdLet, because it's relative complex
+
 ## Installation
 
 ### Requirements
