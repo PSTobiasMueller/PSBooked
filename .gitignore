@@ -1,0 +1,18 @@
+﻿
+# ignore the settings folder and files for VSCode and PSS
+.vscode/*
+*.psproj
+*TempPoint*
+
+# Ignore staging info from Visual Studio
+library/PSBooked/.vs/*
+library/PSBooked/PSBooked/bin/*
+library/PSBooked/PSBooked/obj/*
+
+# ignore PowerShell Studio MetaData
+PSBooked/PSBooked.psproj
+PSBooked/PSBooked.psproj.bak
+PSBooked/PSBooked.psprojs
+PSBooked/PSBooked.psproj
+
+UpdateLocal.ps1

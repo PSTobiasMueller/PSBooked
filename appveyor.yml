@@ -1,0 +1,13 @@
+skip_commits:
+  files:
+    - '**/*.md'
+
+install:
+  - cinst pester
+  - ps: Install-Module PSFramework -AllowClobber -Force
+  - ps: Install-Module -Name PSScriptAnalyzer -Force
+
+
+build: off
+
+test_script:

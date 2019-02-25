@@ -1,0 +1,14 @@
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\bin\bConnect.xml
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\bin\PSBooked.deps.json
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\bin\PSBooked.dll
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\bin\PSBooked.pdb
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\library\PSBooked\obj\Debug\PSBooked.csprojAssemblyReference.cache
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\library\PSBooked\obj\Debug\PSBooked.csproj.CoreCompileInputs.cache
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\library\PSBooked\obj\Debug\PSBooked.AssemblyInfoInputs.cache
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\library\PSBooked\obj\Debug\PSBooked.AssemblyInfo.cs
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\library\PSBooked\obj\Debug\PSBooked.dll
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\library\PSBooked\obj\Debug\PSBooked.pdb
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\PSbooked\bin\PSBooked.deps.json
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\PSbooked\bin\PSBooked.dll
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\PSbooked\bin\PSBooked.pdb
+N:\Home\Tobias\Documents\WindowsPowerShell\PS_DEV\20_REST_API\20_MODULES_TEST\PSbooked\PSbooked\bin\PSBooked.xml

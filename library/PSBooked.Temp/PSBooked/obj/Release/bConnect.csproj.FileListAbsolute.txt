@@ -1,0 +1,7 @@
+P:\PS_DEV\20_REST_API\10_MODULES_PROD\bConnect\library\bConnect\bConnect\bin\Release\bConnect.dll
+P:\PS_DEV\20_REST_API\10_MODULES_PROD\bConnect\library\bConnect\bConnect\bin\Release\bConnect.pdb
+P:\PS_DEV\20_REST_API\10_MODULES_PROD\bConnect\library\bConnect\bConnect\obj\Release\bConnect.csproj.CoreCompileInputs.cache
+P:\PS_DEV\20_REST_API\10_MODULES_PROD\bConnect\library\bConnect\bConnect\obj\Release\bConnect.AssemblyInfoInputs.cache
+P:\PS_DEV\20_REST_API\10_MODULES_PROD\bConnect\library\bConnect\bConnect\obj\Release\bConnect.AssemblyInfo.cs
+P:\PS_DEV\20_REST_API\10_MODULES_PROD\bConnect\library\bConnect\bConnect\obj\Release\bConnect.dll
+P:\PS_DEV\20_REST_API\10_MODULES_PROD\bConnect\library\bConnect\bConnect\obj\Release\bConnect.pdb

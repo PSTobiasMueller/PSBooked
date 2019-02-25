@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PSBooked</name>
+    </assembly>
+    <members>
+        <member name="T:PSBooked.Reservation">
+            <summary>
+            Reservation Class. Used to Create new Reservation
+            </summary>
+        </member>
+        <member name="P:PSBooked.Reservation.Title">
+            <summary>
+            The Title of the Reservation
+            </summary>
+        </member>
+    </members>
+</doc>
